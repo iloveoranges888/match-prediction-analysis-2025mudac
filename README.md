@@ -1,5 +1,5 @@
-## 2025 MinneMUDAC - Match Prediction and Calling Sentiment Analysis 
-### Match Length/ Closure Reason Prediction in Mentoring Programs
+## 2025 MinneMUDAC - Match Length/ Closure Reason Prediction in Mentoring Programs
+### Predictive Modeling, Topic Modeling, NLP Analysis, LLM Modeling, Survival Analysis
 
 Our team acts as consultant for a US nonprofit mentoring organization in this project. Our analysis goal is to help the organization **utilize sentiment analysis through NLP and LLM to better understand match dynamics, identify potential risks early, and enhance the longevity and quality of mentoring relationships**. Our work received interest from the CEO of the organization, and he expressed interest in applying our findings and exploring further collaboration. If implemented, **this monitoring dashboard has the potential to strengthen mentor-mentee bonds and ultimately promote the well-being and long-term development of the children served.**\
 This project predicts the **duration of mentoring matches** and the **closure reason** using features extracted from match call notes with LLMs. By combining **natural language processing**, **machine learning**, and **survival analysis**, we aim to enable real-time monitoring and early intervention in mentoring programs.
